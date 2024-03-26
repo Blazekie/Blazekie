@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Blazekie Im 22 yo guy from Poland,currently living in the US,trying to make a lemonde form my life-lemon tree :) 
+- 👋 Hi, I’m @Blazekie Im 23 yo guy from Poland,trying to make a lemonde form my life-lemon tree :)
+- Currently Studying Software Development :)
 - 👀 I’m interested in Finances,Real Estates,Cryptocurrency,Yachting,Self-development,Gym,Fast Cars and more efficient life than faster one. 
 - 🌱 I’m currently learning Web development front and back-end,In the future I wanna learn javascript and make my own apps. Also to create a company influenced by IT. 
 - 💞️ I’m looking to collaborate on Making apps, create new useful resources for use as development of our world as AI does, make something big nothing less! 
