@@ -13,7 +13,8 @@
 <h2 align="left">Job availability 🖥️</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yuliia-maksymovych/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/yuliia-maksymovych/" height="40" width="40"/></a>&nbsp;<a href="https://www.behance.net/https://www.behance.net/juliamaksymo2" target="blank"><img src="https://www.shareicon.net/data/128x128/2017/04/13/883901_design_512x512.png" alt="https://www.behance.net/juliamaksymo2" height="40" width="40" /></a>
+<a href=""
+  alt="" height="40" width="40"/></a>&nbsp;<a href="https://www.behance.net/https://www.behance.net/juliamaksymo2" target="blank"><img src="https://www.shareicon.net/data/128x128/2017/04/13/883901_design_512x512.png" alt="https://www.behance.net/juliamaksymo2" height="40" width="40" /></a>
 </p>
 <h2 align="left">Languages and Tools ⚒️</h2>
 <p align="left">
