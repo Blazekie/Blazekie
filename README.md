@@ -14,13 +14,13 @@
 
 <p align="left">
 <a href=""
-  alt="" height="40" width="40"/></a>&nbsp;<a href="https://www.behance.net/https://www.behance.net/juliamaksymo2" target="blank"><img src="https://www.shareicon.net/data/128x128/2017/04/13/883901_design_512x512.png" alt="https://www.behance.net/juliamaksymo2" height="40" width="40" /></a>
+  alt="" height="40" width="40"/></a>&nbsp;<a href="" target="blank"><img src="https://www.shareicon.net/data/128x128/2017/04/13/883901_design_512x512.png" alt="https://www.behance.net/juliamaksymo2" height="40" width="40" /></a>
 </p>
 <h2 align="left">Languages and Tools ⚒️</h2>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration:none"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ruby" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
