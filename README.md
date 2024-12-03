@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href=""
-  alt="" height="40" width="40"/></a>&nbsp;<a href="" target="blank"><img src="" alt="" height="40" width="40" /></a>
+ 
 </p>
 <h2 align="left">Languages and Tools ⚒️</h2>
 <p align="left">
